@@ -87,7 +87,7 @@ ALIEN ALERT: TINFOIL HAT ESSENTIAL
         </p>
     </div>
     <div class="sidebar">
-        <img src="tinfoil_hat_button.png" alt="Download Alien Survival Game!" onclick="downloadGame()">
+        <img src="ALIENS!!ad.png" alt="Download Alien Survival Game!" onclick="downloadGame()">
         <p>Click here to download your survival guide game. Only the bravest pancakes dare!</p>
     </div>
 </div>
